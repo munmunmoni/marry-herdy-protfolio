@@ -88,11 +88,10 @@ nav a{
 }
 .banner-description{
     font-size: 18px;
-    text-align: center;
-    /* font-weight: 400; */
-    /* margin-top: 20px; */
-    margin-bottom: 30px;
+    font-weight: 400; 
 }
+
+
 /* main section styles */
 /* about section  styles*/
 .about{
